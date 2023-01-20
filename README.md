@@ -1,0 +1,1 @@
+# simple_detection_objects_yolov5
